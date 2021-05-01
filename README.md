@@ -1,0 +1,2 @@
+# visuals
+Computer-generated imagery.
